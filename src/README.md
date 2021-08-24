@@ -1,4 +1,4 @@
-# Webpack Staretet
+# Webpack Started
     Este es el proyevto incial para crear aplicaciones utilizando webpack
 
     ### Notas
